@@ -5,10 +5,9 @@
 
 ## 📊 Quick Stats
 
-- **Total Entries**: 1
-- **Last Updated**: November 17, 2025
-- **Categories**: YouTube, Articles, X/Twitter, Reddit, Blogs, Podcasts, Other
-
+- **+*Total Entries*+*: 2
+- - **+*Last Updated*+*: November 17, 2025
+- **+*Categories*+*: YouTube, Articles, X/Twitter, Reddit, Blogs, Podcasts, Other
 - ---
 
 ## 🗓️ Timeline
@@ -55,6 +54,26 @@
 - **Tags**: #ai #llm #search #nlp #instacart #query-understanding #system-design #information-retrieval #tail-queries
 
 ---
+
+📰 **+*Article*+* | 15:30 IST
+
+- **+*Title*+*: Unlocking Financial Insights with Finch: Uber's Conversational AI Data Agent
+- - **+*Source*+*: Uber Blog (Engineering & AI)
+  - - **+*Authors*+*: Austin Harrison, Eddie Huang, Spencer Garth, Tim Ross, Taya Yusuf
+    - - **+*Reading Time*+*: ~15 min
+      - - **+*Summary*+*: Uber's Finch is an AI-powered conversational agent that transforms natural language queries into actionable financial data insights. Built on LLM technology and integrated with Slack, Finch eliminates traditional bottlenecks in data access by converting plain English questions into SQL queries, connecting with multiple data sources (Presto, Oracle EPM, IBM Planning Analytics), and delivering real-time results. The system uses advanced RAG architecture, self-querying agents, and metadata retrieval via OpenSearch to understand financial terminology and business context.
+        - - **+*Key Points*+*:
+          -   - Addresses bottleneck in traditional data access: Teams previously needed SQL expertise or manual platform searches to answer business questions
+              -   - Natural Language to SQL: Finch converts conversational queries into structured database queries using LLMs and self-querying agents
+                  -   - Multi-source integration: Connects to Presto (data warehouse), Oracle EPM, IBM Planning Analytics with unified access layer
+                      -   - Technical architecture: Built with Langgraph for agent orchestration, OpenSearch for metadata/semantic search, Slack SDK for user interface
+                          -   - Financial domain intelligence: Maps business terminology (e.g., 'US&C' → 'US and Canada') and understands hierarchical data structures
+                              -   - Security & governance: Implements role-based access control (RBAC), ensuring users only see data they're authorized to access
+                                  -   - Real-time collaboration: Provides instant Slack updates and Google Sheets export for sharing insights across teams
+                                      - - **+*Link*+*: [Read Article](https://www.uber.com/en-IN/blog/unlocking-financial-insights-with-finch/)
+                                        - - **+*Tags*+*: #ai #agents #llm #fintech #uber #data-retrieval #nlp #slack-integration #rag #system-design #conversational-ai #financial-data
+                                         
+                                          - ---
 
 
 #### Week of November 10-16, 2025
